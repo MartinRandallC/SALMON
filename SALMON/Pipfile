@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyterlab = "*"
+matplotlib = "*"
+numpy = "*"
+requests = "*"
+pandas = "*"
+seaborn = "*"
+numba = "*"
+networkx = "*"
+tqdm = "*"
+ipywidgets = "*"
+sklearn = "*"
+
+[requires]
+python_version = "3.7"
