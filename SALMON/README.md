@@ -1,10 +1,9 @@
-# INFOCOM/NOMS 2020
+# SALMON
 
 ```
 dataset/   # Datasets
 lib/       # Python code common to notebooks, scripts, ...
 notebooks/ # Notebooks (data exploration, ...)
-scripts/   # Executable tools (dataset builder, ...)
 ```
 
 ## Prerequisites
