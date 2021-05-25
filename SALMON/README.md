@@ -18,14 +18,7 @@ pip install pipenv
 
 ## Notebooks
 
-Subsequents commands should be run in the repository root:
-
-```bash
-git clone git@github.com:MartinRandallC/SALMON.git
-cd SALMON
-```
-
-On the first run:
+Subsequents commands should be run in the repository root, on the first run:
 
 ```bash
 pipenv sync
