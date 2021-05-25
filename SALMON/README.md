@@ -21,8 +21,8 @@ pip install pipenv
 Subsequents commands should be run in the repository root:
 
 ```bash
-git clone git@github.com:maxmouchet/INFOCOM2020.git
-cd INFOCOM2020
+git clone git@github.com:MartinRandallC/SALMON.git
+cd SALMON
 ```
 
 On the first run:
@@ -37,8 +37,6 @@ To run jupyter lab:
 ```bash
 pipenv run jupyter lab
 ```
-
-**Note:** before commiting changes to the notebook, please clear the cells, or use a git filter: http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/.
 
 ## Policies
 
